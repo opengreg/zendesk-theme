@@ -80,8 +80,12 @@
         { "label": "Lucida Grande", "value": "'Lucida Grande', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif" },
         { "label": "Rajdhani", "value": "'Rajdhani', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif" },
         { "label": "Trebuchet MS", "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" }
+        { "label": "Davilo Light", "value": "'diavlolight', Arial, sans-serif" },
+        { "label": "Davilo Medium", "value": "'diavlomedium', Arial, sans-serif" },
+        { "label": "Davilo Book", "value": "'diavlobook', Arial, sans-serif" },
+        { "label": "Davilo Black", "value": "'diavloblack', Arial, sans-serif" }
       ],
-      "value": "'diavlomedium', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif"
+      "value": "'Rajdhani', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif"
     }, {
       "identifier": "text_font",
       "type": "list",
