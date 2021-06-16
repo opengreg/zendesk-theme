@@ -80,10 +80,10 @@
         { "label": "Lucida Grande", "value": "'Lucida Grande', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif" },
         { "label": "Rajdhani", "value": "'Rajdhani', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif" },
         { "label": "Trebuchet MS", "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" }
-        { "label": "Davilo Light", "value": "'diavlolight', sans-serif" },
-        { "label": "Davilo Medium", "value": "'diavlomedium', sans-serif" },
-        { "label": "Davilo Book", "value": "'diavlobook', sans-serif" },
-        { "label": "Davilo Black", "value": "'diavloblack', sans-serif" },
+        { "label": "Diavlo Light", "value": "'diavlolight', sans-serif" },
+        { "label": "Diavlo Medium", "value": "'diavlomedium', sans-serif" },
+        { "label": "Diavlo Book", "value": "'diavlobook', sans-serif" },
+        { "label": "Diavlo Black", "value": "'diavloblack', sans-serif" }
       ],
       "value": "'Rajdhani', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif"
     }, {
