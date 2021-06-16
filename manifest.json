@@ -81,7 +81,7 @@
         { "label": "Rajdhani", "value": "'Rajdhani', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif" },
         { "label": "Trebuchet MS", "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" }
       ],
-      "value": "'Rajdhani', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif"
+      "value": "'diavlomedium', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif"
     }, {
       "identifier": "text_font",
       "type": "list",
