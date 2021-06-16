@@ -4508,3 +4508,54 @@ html[lang|="ru"] .search-result-description em,
 html[lang|="th"] .search-result-description em {
   font-style: bold;
 }
+
+/* Custom Fonts */
+
+@font-face {
+    font-family: 'diavlolight';
+    src: url('$assets-diavlo_light_ii_37-webfont.woff2') format('woff2'),
+         url('$assets-diavlo_light_ii_37-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'diavlobook';
+    src: url('$assets-diavlo_book_ii_37-webfont.woff2') format('woff2'),
+         url('$assets-diavlo_book_ii_37-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'diavloblack';
+    src: url('$assets-diavlo_black_ii_37-webfont.woff2') format('woff2'),
+         url('$assets-diavlo_black_ii_37-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'diavlomedium';
+    src: url('$assets-diavlo_medium_ii_37-webfont.woff2') format('woff2'),
+         url('$assets-diavlo_medium_ii_37-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'diavlobold';
+    src: url('$assets-diavlo_bold_ii_37-webfont.woff2') format('woff2'),
+         url('$assets-diavlo_bold_ii_37-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
